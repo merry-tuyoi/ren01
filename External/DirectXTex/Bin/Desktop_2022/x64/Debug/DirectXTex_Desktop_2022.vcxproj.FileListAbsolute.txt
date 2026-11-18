@@ -1,0 +1,6 @@
+C:\Users\2260135\Desktop\ゲームプログラミングⅢ(学生配布)\External\DirectXTex\Bin\Desktop_2022\x64\Debug\DirectXTex.lib
+C:\Users\2260135\Desktop\授業用ファイル\ゲームプログラム_授業\ゲームプログラム\ゲームプログラミングⅢ(学生配布)\External\DirectXTex\Bin\Desktop_2022\x64\Debug\DirectXTex.lib
+C:\Users\2260135\Desktop\新しいフォルダー\External\DirectXTex\Bin\Desktop_2022\x64\Debug\DirectXTex.lib
+C:\Users\2260184\Downloads\ゲームプログラムⅢ\ゲームプログラムⅢ\External\DirectXTex\Bin\Desktop_2022\x64\Debug\DirectXTex.lib
+C:\Users\2260184\Desktop\ゲームプログラムⅢ\ゲームプログラムⅢ\External\DirectXTex\Bin\Desktop_2022\x64\Debug\DirectXTex.lib
+C:\Users\2260184\source\repos\ren01\External\DirectXTex\Bin\Desktop_2022\x64\Debug\DirectXTex.lib
